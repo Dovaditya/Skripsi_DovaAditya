@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 5f6a1e78ad2df6740a58f1a0f778df5b
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Game.unity
+    guid: 156b19503fc978249a434e6b25a87925
+  - enabled: 1
+    path: Assets/Scenes/Difficult.unity
+    guid: 268057c525b19204790c7d6935d79ce9
+  - enabled: 1
+    path: Assets/Scenes/Scene Mudah/1Mudah.unity
+    guid: 2c314a69b3db484438e2bc10c3ea1401
+  - enabled: 1
+    path: Assets/Scenes/Scene Mudah/2Mudah.unity
+    guid: d03dd18e3815efb43998525d090e1f58
+  - enabled: 1
+    path: Assets/Scenes/Scene Mudah/3Mudah.unity
+    guid: 3ee08b608361e1b459d3963681017069
+  - enabled: 1
+    path: Assets/Scenes/Scene Mudah/4Mudah.unity
+    guid: e04e42db5a2a43f4192f24585fe4eff4
+  - enabled: 1
+    path: Assets/Scenes/Scene Mudah/5Mudah.unity
+    guid: 9f4db38a62a449946b8c0a7dcc6cff27
+  - enabled: 1
+    path: Assets/Scenes/Scene Mudah/6Mudah.unity
+    guid: 47953c025a1475849977364f75ac600e
+  - enabled: 1
+    path: Assets/Scenes/Scene Mudah/7Mudah.unity
+    guid: abaf1be1082d81548b5dcad41d4c5f67
+  - enabled: 1
+    path: Assets/Scenes/Scene Mudah/8Mudah.unity
+    guid: 1b46bfdf21acd2f449f9295e2298c1ef
+  - enabled: 1
+    path: Assets/Scenes/Scene Mudah/9Mudah.unity
+    guid: 2d8f1341e0f3d304a9eb0ccba0f0e4aa
+  - enabled: 1
+    path: Assets/Scenes/Scene Menengah/1Menengah.unity
+    guid: 1992ac878f871cf479b27f2a9d219bb4
+  - enabled: 1
+    path: Assets/Scenes/Scene Menengah/2Menengah.unity
+    guid: df600b49c7191c54b98a52b83defab22
+  - enabled: 1
+    path: Assets/Scenes/Scene Menengah/3Menengah.unity
+    guid: 94f78d6c15c82784f8f2dccf52c36a4e
+  - enabled: 1
+    path: Assets/Scenes/Scene Menengah/4Menengah.unity
+    guid: e1e1a004e3208df4a84bac344064169a
+  - enabled: 1
+    path: Assets/Scenes/Scene Menengah/5Menengah.unity
+    guid: 8f180c4b308ec1e45b6511d6dc2a60f4
+  - enabled: 1
+    path: Assets/Scenes/Scene Menengah/6Menengah.unity
+    guid: 7503d8edbc8d3094bb5b4321cdbd1780
+  - enabled: 1
+    path: Assets/Scenes/Scene Menengah/7Menengah.unity
+    guid: 7e10b65b1894bc04188b5d6843b67c71
+  - enabled: 1
+    path: Assets/Scenes/Scene Menengah/8Menengah.unity
+    guid: 8223cd018a05a8c44bf983c328ed8ec8
+  - enabled: 1
+    path: Assets/Scenes/Scene Menengah/9Menengah.unity
+    guid: 648d5ce56bee7cc419f076f3f81b57cd
+  - enabled: 1
+    path: Assets/Scenes/Scene Sulit/1Sulit.unity
+    guid: d2b781345d3542747835712c091318c4
+  - enabled: 1
+    path: Assets/Scenes/Scene Sulit/2Sulit.unity
+    guid: 64cdf7b0c8aebc54a909e60b995b156d
+  - enabled: 1
+    path: Assets/Scenes/Scene Sulit/3Sulit.unity
+    guid: ce162b713fc07b14299a15f1f55a266b
+  - enabled: 1
+    path: Assets/Scenes/Scene Sulit/4Sulit.unity
+    guid: 6c7e56aff35226a49a5d8dbdc4a28c6d
+  - enabled: 1
+    path: Assets/Scenes/Scene Sulit/5Sulit.unity
+    guid: 0c3419ffb54d50049ba6203773675913
+  - enabled: 1
+    path: Assets/Scenes/Scene Sulit/6Sulit.unity
+    guid: 0d076eee50403614eb8cb3b97e18711c
+  - enabled: 1
+    path: Assets/Scenes/Scene Sulit/7Sulit.unity
+    guid: ae8d8d66467a0a2468e1ac5e5b60bbba
+  - enabled: 1
+    path: Assets/Scenes/Scene Sulit/8Sulit.unity
+    guid: cf1d834f97213904ea794498a9c1d303
+  - enabled: 1
+    path: Assets/Scenes/Scene Sulit/9Sulit.unity
+    guid: 0c36a36bc480822468ea0d83377cd7fe
+  - enabled: 1
+    path: Assets/Scenes/Belajar.unity
+    guid: fd550f50d62834140af939e7b62fbffe
+  - enabled: 1
+    path: Assets/Scenes/Scene Belajar/Herbivora.unity
+    guid: 2c5f79c2fbff77842bc00c8593ad4d05
+  - enabled: 1
+    path: Assets/Scenes/Scene Belajar/Herbivora/Gajah.unity
+    guid: e0dbc28cfda8c7248b175ed4dcb2fee8
+  - enabled: 1
+    path: Assets/Scenes/Scene Belajar/Herbivora/Sapi.unity
+    guid: 3adaf11b16922ba42ad3992d5a4e4a49
+  - enabled: 1
+    path: Assets/Scenes/Scene Belajar/Herbivora/Jerapah.unity
+    guid: eabc23d84449afc4d8e639eb434e77e8
+  - enabled: 1
+    path: Assets/Scenes/Scene Belajar/Karnivora.unity
+    guid: 3e4770491c233c14da451968b47346e8
+  - enabled: 1
+    path: Assets/Scenes/Scene Belajar/Karnivora/Harimau.unity
+    guid: 730189a42168b694bbaed909baa2f00c
+  - enabled: 1
+    path: Assets/Scenes/Scene Belajar/Karnivora/Singa.unity
+    guid: a1d33de39453db04eb24f1ec8b2e6bcb
+  - enabled: 1
+    path: Assets/Scenes/Scene Belajar/Karnivora/Trex.unity
+    guid: 9c0698942ac6f394aa901a77ac4f17e4
+  - enabled: 1
+    path: Assets/Scenes/Scene Belajar/Omnivora.unity
+    guid: d3b607b35c241d24a8598376a60b3743
+  - enabled: 1
+    path: Assets/Scenes/Scene Belajar/Omnivora/Babi.unity
+    guid: ebed83dc512ae834b94dc2f764cfefa9
+  - enabled: 1
+    path: Assets/Scenes/Scene Belajar/Omnivora/Beruang.unity
+    guid: 69f840c5a9e455f4e93cc420795216ff
+  m_configObjects: {}
